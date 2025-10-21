@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "49530249599",
+    "project_id": "smartedge-mvp",
+    "storage_bucket": "smartedge-mvp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49530249599:android:77e6baa46f13e6fbeb3a4a",
+        "android_client_info": {
+          "package_name": "com.newtonedgetutorial.smartedge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAXc9Xjm1v1ILhcJCy8dLhm2mmbEnkJ5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
